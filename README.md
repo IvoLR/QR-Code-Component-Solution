@@ -4,12 +4,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![./design/screenshot.jpg]
+![screenshot](https://user-images.githubusercontent.com/103017821/162886752-01fc09ac-763d-4364-ba19-074df734da1a.jpg)
 
 
 ## :clipboard: Sobre o Projeto
 
-Desafio para recriar um card com QR code do site Fronend Mentor.
+Desafio do site Fronend Mentor
+Dificuldade: newbie
+Total: 1/10
 
 ## :computer: Tecnologias utilizadas
 
